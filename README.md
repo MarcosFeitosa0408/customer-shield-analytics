@@ -97,6 +97,58 @@ Output:
 This enables proactive decision-making for retention strategies.
 
 ---
+## 📊 Resultados do Modelo
+
+O modelo foi desenvolvido para identificar clientes com alta probabilidade de churn, permitindo ações preventivas de retenção.
+
+### Métricas de Desempenho
+
+* Accuracy: XX%
+* Precision: XX%
+* Recall: XX%
+* F1-Score: XX%
+* ROC-AUC: XX%
+
+> *As métricas serão atualizadas após a validação final do modelo.*
+
+---
+
+## 📷 Visualizações do Projeto
+
+### Dashboard Executivo
+
+### Principais Insights
+
+* Clientes com contratos mensais apresentam maior risco de churn.
+* Clientes com menor tempo de permanência possuem maior probabilidade de cancelamento.
+* Métodos de pagamento específicos demonstram correlação com taxas mais elevadas de churn.
+* A segmentação por risco permite direcionar campanhas de retenção de forma mais eficiente.
+
+---
+
+## 🎯 Recomendações de Negócio
+
+Com base na análise dos dados e nos resultados do modelo, recomenda-se:
+
+* Criar campanhas de retenção para clientes classificados como Alto Risco.
+* Incentivar contratos de longo prazo.
+* Monitorar continuamente clientes recém-adquiridos.
+* Desenvolver programas de fidelização para aumentar o Customer Lifetime Value (CLV).
+* Utilizar o score de churn para priorizar ações do time de Customer Success.
+
+---
+
+## 👨‍💻 Autor
+
+**Marcos Feitosa**
+
+Analista de Dados com foco em Business Intelligence, Power BI, SQL, Python e Machine Learning.
+
+### Contato
+
+* LinkedIn: https://www.linkedin.com/in/marcosfeitosa-analista/
+* GitHub: https://github.com/MarcosFeitosa0408
+* Portfólio: https://marcosfeitosa0408.github.io/portfolio/
 
 ## 💼 Business Impact
 
