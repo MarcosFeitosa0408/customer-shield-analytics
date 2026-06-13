@@ -119,9 +119,10 @@ O modelo foi desenvolvido para identificar clientes com alta probabilidade de ch
 ---
 
 ## 📷 Visualizações do Projeto
-
+---
 ### Dashboard Executivo
-
+O dashboard executivo foi desenvolvido para monitorar indicadores estratégicos de churn, segmentação de clientes e métricas de retenção, permitindo uma visão consolidada para apoio à tomada de decisão.
+---
 ### Principais Insights
 
 * Clientes com contratos mensais apresentam maior risco de churn.
