@@ -1,4 +1,4 @@
-# Customer Shield Analytics — Churn Prediction System
+# Customer Shield Analytics —Sistema de Previsão de Cancelamento de Clientes
 ## 📊 Dashboard Preview
 
 ![Dashboard](dashboard.png)
