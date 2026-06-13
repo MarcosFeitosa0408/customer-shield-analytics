@@ -110,7 +110,12 @@ O modelo foi desenvolvido para identificar clientes com alta probabilidade de ch
 * ROC-AUC: XX%
 
 > *As métricas serão atualizadas após a validação final do modelo.*
+---
+## 📊 Resultados do Modelo
 
+O modelo foi desenvolvido para identificar clientes com alta probabilidade de churn, permitindo ações preventivas de retenção.
+
+> As métricas de desempenho serão adicionadas após a validação final do modelo.
 ---
 
 ## 📷 Visualizações do Projeto
