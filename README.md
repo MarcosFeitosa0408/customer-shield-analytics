@@ -1,5 +1,7 @@
 # Customer Shield Analytics — Churn Prediction System
+## 📊 Dashboard Preview
 
+![Dashboard](dashboard.png)
 ## 📌 Overview
 Customer Shield Analytics is an end-to-end data project designed to simulate a real SaaS customer retention system.
 
