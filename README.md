@@ -103,11 +103,11 @@ O modelo foi desenvolvido para identificar clientes com alta probabilidade de ch
 
 ### Métricas de Desempenho
 
-* Accuracy: XX%
-* Precision: XX%
-* Recall: XX%
-* F1-Score: XX%
-* ROC-AUC: XX%
+Acurácia: XX%
+Precisão: XX%
+Recall: XX%
+Pontuação F1: XX%
+ROC-AUC: XX%
 
 > *As métricas serão atualizadas após a validação final do modelo.*
 ---
